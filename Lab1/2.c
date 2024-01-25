@@ -5,7 +5,6 @@
 
 #include <stdio.h>
 
-
 #define nl printf("\n");
 
 int main(){
