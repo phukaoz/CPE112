@@ -32,7 +32,7 @@ int main(int argc,char** argv){
 			C[i][j] = 0;
 		}
 	}
-	if(m1 != n1){
+	if(m1 != n2){
 		printf("Not Compatible");
 		return 0;
 	}

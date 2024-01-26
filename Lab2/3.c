@@ -1,3 +1,8 @@
+/*
+	tanapat namsomboon
+	66070501022
+*/
+
 #include <stdio.h>
 
 int main(){

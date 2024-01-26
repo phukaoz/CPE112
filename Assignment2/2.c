@@ -15,6 +15,10 @@ int main(int argc,char** argv){
 	for(int i=0;i<n;i++){
 		scanf("%d",&v[i]);
 	}
+	if(n == 1){
+		printf("0");
+		return 0;
+	}
 	int cnt = 0;
 	int len = 0;
 	int nxt = 0;
