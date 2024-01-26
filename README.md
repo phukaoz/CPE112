@@ -1,2 +1,3 @@
 # CPE112
- assignment :3
+ assignment & lab :yum:\
+ Try doing it yourself first nakub :heart:
