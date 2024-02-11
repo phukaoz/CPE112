@@ -1,3 +1,7 @@
+/*
+    Tanapat Namsomboon
+    66070501022
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
