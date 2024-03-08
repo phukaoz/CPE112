@@ -17,7 +17,7 @@ int op(char c){
         case '/':
         case '*':
             return 1;
-        }
+    }0
     return 0;
 }
 void push(char var[]){
